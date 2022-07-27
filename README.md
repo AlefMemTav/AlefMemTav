@@ -1,8 +1,7 @@
-#
 ### 🌅 אמת 
-My name is Pedro Lucas Garcia. I'm a software engineering student. 
-
-### ~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Alef Mem Tav is emeth, a word in hebrew that meaning truth. Now, *Alef* is the first letter of the alphabet, *mem* is the middle letter and *tav* is the last. So, truth is like emeth, it is at the beginning of all, in the middle and in the end and beyond it there is nothing.
 #
+![1](https://lh3.googleusercontent.com/pw/AM-JKLVpgzv_VFrgzsOZ9kJ_crvpxWZVafTMF5ZdtsoTxer3D-7fikSvTqQhQhOZ5NgUP8pEnnQIfR_t5Pdf7th2Vm2ZH398gmcym95OYzdBBdhy5-E9juxxZP9wDevdXdVwC_wZgRYxY495jvNZcmTaRb_8bg=w1176-h661-no?authuser=0n)
+#
+Software engineering student.
+### ~~~~~~~~~~~~~~~~~~~~~~~~~
+Alef Mem Tav is emeth, a word in hebrew that meaning truth.
