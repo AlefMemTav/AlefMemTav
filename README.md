@@ -1,6 +1,6 @@
 Software engineering student.
  #
- [![Guess I'm Doing Fine](https://user-images.githubusercontent.com/97984278/234338672-06a8dafa-9947-4185-9824-8caa18a44087.png)](https://youtu.be/BSXY5xxZ9UM)
+ [![Guess I'm Doing Fine](https://user-images.githubusercontent.com/97984278/234429331-7e26ec3f-70fc-44af-a27a-83e0bab9f36a.png)](https://youtu.be/BSXY5xxZ9UM)
 
 
 > Guess I'm Doing Fine
