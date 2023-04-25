@@ -52,6 +52,7 @@ My road it might be rocky
 The stones might cut my face
 But as some folks ain’t got no road at all
 They gotta stand in the same old place
+Hey, hey, so I guess I’m doin’ fine
 ```
 #
 אמת
