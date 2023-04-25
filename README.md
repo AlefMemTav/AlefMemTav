@@ -1,5 +1,57 @@
 Software engineering student.
  #
-![1](https://lh3.googleusercontent.com/pw/AM-JKLVpgzv_VFrgzsOZ9kJ_crvpxWZVafTMF5ZdtsoTxer3D-7fikSvTqQhQhOZ5NgUP8pEnnQIfR_t5Pdf7th2Vm2ZH398gmcym95OYzdBBdhy5-E9juxxZP9wDevdXdVwC_wZgRYxY495jvNZcmTaRb_8bg=w1176-h661-no?authuser=0n)
+ [![Guess I'm Doing Fine](https://user-images.githubusercontent.com/97984278/234338672-06a8dafa-9947-4185-9824-8caa18a44087.png)](https://youtu.be/BSXY5xxZ9UM)
+
+
+> Guess I'm Doing Fine
+> Bob Dylan
+```json
+Well, I ain’t got my childhood
+Or friends I once did know
+No, I ain’t got my childhood
+Or friends I once did know
+But I still got my voice left
+I can take it anywhere I go
+Hey, hey, so I guess I’m doin’ fine
+
+And I’ve never had much money
+But I’m still around somehow
+No, I’ve never had much money
+But I’m still around somehow
+Many times I’ve bended
+But I ain’t never yet bowed
+Hey, hey, so I guess I’m doin’ fine
+
+Trouble, oh trouble
+I’ve trouble on my mind
+Trouble, oh trouble
+Trouble on my mind
+But the trouble in the world, Lord
+Is much more bigger than mine
+Hey, hey, so I guess I’m doin’ fine
+
+And I never had no armies
+To jump at my command
+No, I ain’t got no armies
+To jump at my command
+But I don’t need no armies
+I got me one good friend
+Hey, hey, so I guess I’m doin’ fine
+
+I been kicked and whipped and trampled on
+I been shot at just like you
+I been kicked and whipped and trampled on
+I been shot at just like you.
+But as long as the world keeps a-turnin’
+I just keep a-turnin’ too
+Hey, hey, so I guess I’m doin’ fine
+
+Well, my road might be rocky
+The stones might cut my face
+My road it might be rocky
+The stones might cut my face
+But as some folks ain’t got no road at all
+They gotta stand in the same old place
+```
 #
 אמת
