@@ -2,7 +2,7 @@
 - 🏃‍♂️ I have experience with REST and RESTful API, Spring, Java, unit tests and React.
 - 🔭 I'm currently working on a very nice personal project.
 - 🌱 I’m currently learning Angular and Python.
-- ⛑️ I'm looking to collaborate on web, app and game development.
+- ⛑️ I'm looking to collaborate on web and app development.
 - 💬 Ask me about Java.
 - 📫 How to reach me: garcia.lucas@aluno.unb.br.
 - ⚡ Fun fact: I created a petition that successfully increased the number of spots available in the software engineering course at my university.
