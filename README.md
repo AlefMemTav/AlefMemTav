@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="./assets/images/giphy.gif" width="100%">
+  <img src="./assets/images/snoopy.jpg" width="100%">
 </p>
